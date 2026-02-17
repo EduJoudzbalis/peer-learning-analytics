@@ -40,7 +40,7 @@ Aunque Python (Pandas) es suficiente para el análisis exploratorio, este proyec
 * **Python** actúa como la herramienta de **ETL** (Extracción y Limpieza).
 * **SQL** actúa como el **Data Warehouse**.
 * El script `analysis_queries.sql` demuestra la capacidad de diseñar esquemas relacionales y extraer KPIs de negocio directamente desde la base de datos, una habilidad crítica para la integración con herramientas de BI como PowerBI o Tableau.
-> 📂 *Evidencia:* [Ver captura de resultados SQL](images/sql_queries_1.png) y [Promedios Mensuales](images/sql_queries_2.png)
+> 📂 *Evidencia:* [Ver captura de resultados SQL](images/sql_queries_1.png) y [Ver captura de resultados SQL](images/sql_queries_2.png)
 
 ---
 
@@ -96,4 +96,5 @@ Basado en la evidencia de los datos, se sugieren las siguientes acciones pedagó
 │   ├── anonymized_preview.png
 │   └── scatter_plot_impact.png
 └── README.md
+
 
