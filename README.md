@@ -97,4 +97,11 @@ Basado en la evidencia de los datos, se sugieren las siguientes acciones pedagó
 │   └── scatter_plot_impact.png
 └── README.md
 
+```
+---
+
+**Autor:** Eduardo Joudzbalis
+*Data Analyst | Educación Matemática y Lógica | Optimización de Procesos*
+[LinkedIn](https://www.linkedin.com/in/eduardo-joudzbalis-330067146/)
+
 
